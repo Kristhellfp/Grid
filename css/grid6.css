@@ -1,0 +1,46 @@
+.hijo2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 20% 1fr 20% ;
+    gap: 1rem;
+;
+}
+
+.cuadro{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 3;
+
+    background-color: black;
+}
+
+.cuadro1{
+    background-color: black;
+
+  
+}
+.cuadro2{
+    background-color: black;
+
+    
+}
+
+
+.cuadro3{
+    background-color: black;
+
+  
+}
+
+.cuadro4{
+ 
+    background-color: black;
+
+}
+
+.cuadro5{
+    background-color: black;
+
+   
+}

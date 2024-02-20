@@ -1,0 +1,52 @@
+
+.padre3{
+    margin: 1rem;
+    height: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 1rem;
+}
+
+.padre4{
+    margin: 1rem;
+
+    height: 50%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows:  1fr;
+    gap: 1rem;
+}
+
+
+.cuadro{
+    background-color: black;
+}
+
+.cuadro1{
+    background-color: black;
+
+ 
+  
+}
+.cuadro2{
+    background-color: black;
+
+
+    
+}
+
+
+.cuadro3{
+    background-color: black;
+
+
+  
+}
+
+.cuadro4{
+    background-color: black;
+
+    
+}
+
+

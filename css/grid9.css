@@ -1,0 +1,65 @@
+.hijo2{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1rem;
+}
+.cuadro{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end:3;
+    background-color: black;
+}
+
+.cuadro1{
+ 
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 3;
+    grid-column-end:5;
+    background-color: black;
+  
+}
+
+.cuadro2{
+    background-color: black;
+
+}
+
+
+.cuadro3{
+    background-color: black;
+
+}
+.cuadro4{
+  
+    background-color: black;
+
+}
+.cuadro5{
+  
+    background-color: black;
+
+}
+.cuadro6{
+  
+    background-color: black;
+
+}
+.cuadro7{
+  
+    background-color: black;
+
+}
+.cuadro8{
+  
+    background-color: black;
+
+}
+.cuadro9{
+  
+    background-color: black;
+
+}
+

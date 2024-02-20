@@ -1,0 +1,22 @@
+.hijo2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    gap: 1rem;
+;
+}
+
+.cuadro{
+    grid-column-start: 1;
+    background-color: black;
+}
+.cuadro1{
+
+    grid-column-start: 2;
+    background-color: black;
+}
+.cuadro2{
+
+    grid-column-start: 3;
+    background-color: black;
+}
